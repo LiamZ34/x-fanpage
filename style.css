@@ -1,0 +1,33 @@
+body {
+    background-color:#6d7473;
+    }
+    
+    h2 {
+        color: black;
+        position: relative;
+        left: 0px;
+    
+    }
+    
+    h1 {
+        color: black;
+        text-align: center;
+    }
+    
+    h3 {
+        position:relative;
+        bottom:20px;
+    }
+    
+    h4 {
+        text-size-adjust: 50px;
+    }
+    
+    .smaller-image {
+        width: 200px;
+    }
+    .black-title {
+        color: black;
+        text-decoration: none;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
